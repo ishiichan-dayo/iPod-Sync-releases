@@ -4,7 +4,7 @@
 
 **iPod classic に、ドラッグ＆ドロップで曲を入れる。iTunes はいりません。**
 
-Windows / macOS 用のデスクトップアプリ
+Windows / macOS 用のデスクトップアプリ。**完全無料**（広告なし・有料機能なし・アカウント登録不要）
 
 [**ダウンロード**](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest) ・ [English](README.en.md)
 

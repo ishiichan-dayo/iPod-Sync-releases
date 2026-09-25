@@ -4,7 +4,7 @@
 
 **Drag and drop music onto your iPod classic. No iTunes needed.**
 
-A desktop app for Windows and macOS
+A desktop app for Windows and macOS. **Completely free** — no ads, no paid features, no account needed
 
 [**Download**](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest) · [日本語](README.md)
 
