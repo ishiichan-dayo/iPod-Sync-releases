@@ -8,6 +8,8 @@ Windows / macOS 用のデスクトップアプリ
 
 [**ダウンロード**](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest) ・ [English](README.en.md)
 
+<a href="https://ko-fi.com/ishiichan_dayo"><img src="https://img.shields.io/badge/Ko--fi-%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi で応援する"></a>
+
 <img src="docs/images/demo.gif" alt="曲をドラッグして iPod に転送する様子" width="800">
 
 [紹介動画（54 秒・音あり）](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/download/v0.6.0/ipod-sync-demo.mp4)
@@ -109,6 +111,10 @@ FLAC などを変換して転送するには ffmpeg が必要です（MP3 / AAC 
 ## 不具合の報告・要望
 
 [Issues](https://github.com/ishiichan-dayo/iPod-Sync-releases/issues) にお寄せください。iPod の機種（画面の左上に表示されます）と OS を書いていただけると助かります。
+
+## 応援
+
+iPod Sync は個人で開発している無料のアプリです。気に入っていただけたら、[Ko-fi](https://ko-fi.com/ishiichan_dayo) で応援していただけるとうれしいです。開発を続ける励みになります。
 
 ---
 

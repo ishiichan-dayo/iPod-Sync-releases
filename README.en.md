@@ -8,6 +8,8 @@ A desktop app for Windows and macOS
 
 [**Download**](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest) · [日本語](README.md)
 
+<a href="https://ko-fi.com/ishiichan_dayo"><img src="https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=kofi&logoColor=white" alt="Support me on Ko-fi"></a>
+
 <img src="docs/images/demo.gif" alt="Dragging songs onto the iPod" width="800">
 
 [Watch the full demo (54 s, with sound)](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/download/v0.6.0/ipod-sync-demo.mp4)
@@ -109,6 +111,10 @@ Right-click for delete, export, add to playlist, edit song info and sort names, 
 ## Bug reports and requests
 
 Please use [Issues](https://github.com/ishiichan-dayo/iPod-Sync-releases/issues). Including your iPod model (shown at the top left of the window) and OS helps a lot.
+
+## Support
+
+iPod Sync is a free app made by one person. If you find it useful, you can [buy me a coffee on Ko-fi](https://ko-fi.com/ishiichan_dayo). It helps keep development going.
 
 ---
 
