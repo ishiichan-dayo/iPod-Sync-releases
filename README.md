@@ -6,13 +6,13 @@
 
 Windows / macOS 用のデスクトップアプリ。**完全無料**（広告なし・有料機能なし・アカウント登録不要）
 
-[**ダウンロード**](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest) ・ [English](README.en.md)
+[**ダウンロード**](https://github.com/ishiichan-dayo/iPod-Sync/releases/latest) ・ [English](README.en.md)
 
 <a href="https://ko-fi.com/ishiichan_dayo"><img src="https://img.shields.io/badge/Ko--fi-%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi で応援する"></a>
 
 <img src="docs/images/demo.gif" alt="曲をドラッグして iPod に転送する様子" width="800">
 
-[紹介動画（54 秒・音あり）](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/download/v0.6.0/ipod-sync-demo.mp4)
+[紹介動画（54 秒・音あり）](https://github.com/ishiichan-dayo/iPod-Sync/releases/download/v0.6.0/ipod-sync-demo.mp4)
 
 </div>
 
@@ -65,7 +65,7 @@ iPod Sync は転送するときに読みを自動で付けます（「椎名林�
 
 ## ダウンロード
 
-[最新版のリリース](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest) から、お使いの OS 用のファイルをダウンロードしてください。
+[最新版のリリース](https://github.com/ishiichan-dayo/iPod-Sync/releases/latest) から、お使いの OS 用のファイルをダウンロードしてください。
 
 | OS | ファイル |
 | --- | --- |
@@ -110,7 +110,7 @@ FLAC などを変換して転送するには ffmpeg が必要です（MP3 / AAC 
 
 ## 不具合の報告・要望
 
-[Issues](https://github.com/ishiichan-dayo/iPod-Sync-releases/issues) にお寄せください。iPod の機種（画面の左上に表示されます）と OS を書いていただけると助かります。
+[Issues](https://github.com/ishiichan-dayo/iPod-Sync/issues) にお寄せください。iPod の機種（画面の左上に表示されます）と OS を書いていただけると助かります。
 
 ## 応援
 

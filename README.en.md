@@ -6,13 +6,13 @@
 
 A desktop app for Windows and macOS. **Completely free** — no ads, no paid features, no account needed
 
-[**Download**](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest) · [日本語](README.md)
+[**Download**](https://github.com/ishiichan-dayo/iPod-Sync/releases/latest) · [日本語](README.md)
 
 <a href="https://ko-fi.com/ishiichan_dayo"><img src="https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=kofi&logoColor=white" alt="Support me on Ko-fi"></a>
 
 <img src="docs/images/demo.gif" alt="Dragging songs onto the iPod" width="800">
 
-[Watch the full demo (54 s, with sound)](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/download/v0.6.0/ipod-sync-demo.mp4)
+[Watch the full demo (54 s, with sound)](https://github.com/ishiichan-dayo/iPod-Sync/releases/download/v0.6.0/ipod-sync-demo.mp4)
 
 </div>
 
@@ -65,7 +65,7 @@ iPod Sync adds Japanese readings as sort names when transferring (e.g. 椎名林
 
 ## Download
 
-Get the file for your OS from the [latest release](https://github.com/ishiichan-dayo/iPod-Sync-releases/releases/latest).
+Get the file for your OS from the [latest release](https://github.com/ishiichan-dayo/iPod-Sync/releases/latest).
 
 | OS | File |
 | --- | --- |
@@ -110,7 +110,7 @@ Right-click for delete, export, add to playlist, edit song info and sort names, 
 
 ## Bug reports and requests
 
-Please use [Issues](https://github.com/ishiichan-dayo/iPod-Sync-releases/issues). Including your iPod model (shown at the top left of the window) and OS helps a lot.
+Please use [Issues](https://github.com/ishiichan-dayo/iPod-Sync/issues). Including your iPod model (shown at the top left of the window) and OS helps a lot.
 
 ## Support
 
