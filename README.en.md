@@ -85,8 +85,8 @@ The app isn't code-signed yet, so you'll see a warning the first time.
 
 Converting FLAC and other formats requires ffmpeg (not needed for MP3 / AAC / ALAC / WAV / AIFF).
 
-- **Windows**: install it in one click from the app's Settings
-- **macOS**: `brew install ffmpeg`
+- **Windows / macOS**: install it in one click from the app's Settings
+- **FLAC on macOS** is converted by macOS itself, even without ffmpeg (Ogg / Opus / WMA and others still need ffmpeg)
 
 ## How to use
 

@@ -85,8 +85,8 @@ iPod Sync は転送するときに読みを自動で付けます（「椎名林�
 
 FLAC などを変換して転送するには ffmpeg が必要です（MP3 / AAC / ALAC / WAV / AIFF だけなら不要）。
 
-- **Windows**：アプリの設定画面からワンクリックで入れられます
-- **macOS**：`brew install ffmpeg`
+- **Windows / macOS**：アプリの設定画面からワンクリックで入れられます
+- **macOS の FLAC** は、ffmpeg が無くても Mac の機能で変換します（Ogg / Opus / WMA などには ffmpeg が必要）
 
 ## 使い方
 
